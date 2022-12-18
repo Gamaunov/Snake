@@ -141,7 +141,7 @@ body.dark {
   color: rgb(0, 241, 60);
 }
 body.game-over_img {
-  background-image: url(./img/156198-dvoichnyj_kod-dvoichnoe_chislo-stoyanie-zelenyj-uzor-3840x2160.jpg);
+  background-image: url(./img/snake.jpg);
 }
 .record {
   font-size: 36px;
